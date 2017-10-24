@@ -2,7 +2,36 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="23321bee-e715-41b4-8a05-892055af84e7" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinLatihanA/META-INF/KotlinLatihanA.kotlin_module" afterPath="$PROJECT_DIR$/out/production/KotlinLatihanA/META-INF/KotlinLatihanA.kotlin_module" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinLatihanA/ArraylistKt.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinLatihanA/CollectionsKt.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinLatihanA/FunctionoverloadKt.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinLatihanA/FunctionpolymorpishmKt.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinLatihanA/Global_and_local_variabelKt.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinLatihanA/HashMapKt.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinLatihanA/IncreanddecreKt.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinLatihanA/InheritanceKt.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinLatihanA/KonvertDataKt.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinLatihanA/LoopKt.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinLatihanA/META-INF/KotlinLatihanA.kotlin_module" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinLatihanA/Mobil4Kt.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinLatihanA/MobilKt.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinLatihanA/Null1Kt.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinLatihanA/Null2Kt.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinLatihanA/OneDimensionArrayKt.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinLatihanA/PenjumlahanKt.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinLatihanA/Percobaan1Kt.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinLatihanA/Priority_rulesKt.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinLatihanA/QuizKt.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinLatihanA/ReadlineKt.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinLatihanA/SetofKt.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinLatihanA/Simplefunction1Kt.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinLatihanA/Simplefunction2Kt.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinLatihanA/StringKt.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinLatihanA/VariabelKt.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinLatihanA/mobil.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinLatihanA/mobil4.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinLatihanA/pesawat.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinLatihanA/pesawattempur.class" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -52,13 +81,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="inheritance.kt" pinned="false" current-in-tab="true">
+      <file leaf-file-name="inheritance.kt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/inheritance.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="322">
-              <caret line="29" column="21" lean-forward="false" selection-start-line="29" selection-start-column="21" selection-end-line="29" selection-end-column="21" />
+            <state relative-caret-position="102">
+              <caret line="24" column="7" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="33" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="overidding.kt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/overidding.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="25" column="1" lean-forward="false" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
               <folding>
-                <element signature="n#!!doc;n#pesawat#0" expanded="false" />
+                <element signature="n#!!doc;n#Pesawat#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -129,6 +168,7 @@
         <option value="$PROJECT_DIR$/src/mobil4.kt" />
         <option value="$PROJECT_DIR$/src/mobil5.kt" />
         <option value="$PROJECT_DIR$/src/inheritance.kt" />
+        <option value="$PROJECT_DIR$/src/overidding.kt" />
       </list>
     </option>
   </component>
@@ -205,20 +245,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.InheritanceKt">
-    <configuration default="false" name="MobilKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="MobilKt" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="KotlinLatihanA" />
-      <envs />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Kotlin.OveriddingKt">
     <configuration default="false" name="Mobil3Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="Mobil3Kt" />
@@ -261,6 +288,19 @@
     <configuration default="false" name="InheritanceKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="InheritanceKt" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="KotlinLatihanA" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="OveriddingKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="OveriddingKt" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -504,19 +544,19 @@
     <list size="7">
       <item index="0" class="java.lang.String" itemvalue="Kotlin.LoopKt" />
       <item index="1" class="java.lang.String" itemvalue="Kotlin.Percobaan1Kt" />
-      <item index="2" class="java.lang.String" itemvalue="Kotlin.MobilKt" />
-      <item index="3" class="java.lang.String" itemvalue="Kotlin.Mobil3Kt" />
-      <item index="4" class="java.lang.String" itemvalue="Kotlin.Mobil2Kt" />
-      <item index="5" class="java.lang.String" itemvalue="Kotlin.Mobil4Kt" />
-      <item index="6" class="java.lang.String" itemvalue="Kotlin.InheritanceKt" />
+      <item index="2" class="java.lang.String" itemvalue="Kotlin.Mobil3Kt" />
+      <item index="3" class="java.lang.String" itemvalue="Kotlin.Mobil2Kt" />
+      <item index="4" class="java.lang.String" itemvalue="Kotlin.Mobil4Kt" />
+      <item index="5" class="java.lang.String" itemvalue="Kotlin.InheritanceKt" />
+      <item index="6" class="java.lang.String" itemvalue="Kotlin.OveriddingKt" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Kotlin.InheritanceKt" />
-        <item index="1" class="java.lang.String" itemvalue="Kotlin.Mobil4Kt" />
-        <item index="2" class="java.lang.String" itemvalue="Kotlin.Mobil2Kt" />
-        <item index="3" class="java.lang.String" itemvalue="Kotlin.Mobil3Kt" />
-        <item index="4" class="java.lang.String" itemvalue="Kotlin.MobilKt" />
+        <item index="0" class="java.lang.String" itemvalue="Kotlin.OveriddingKt" />
+        <item index="1" class="java.lang.String" itemvalue="Kotlin.InheritanceKt" />
+        <item index="2" class="java.lang.String" itemvalue="Kotlin.Mobil4Kt" />
+        <item index="3" class="java.lang.String" itemvalue="Kotlin.Mobil2Kt" />
+        <item index="4" class="java.lang.String" itemvalue="Kotlin.Mobil3Kt" />
       </list>
     </recent_temporary>
   </component>
@@ -546,7 +586,7 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32783884" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32783884" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32783884" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -609,7 +649,7 @@
           <properties />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="9" />
+      <option name="time" value="10" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -618,7 +658,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/age.kt" />
     <entry file="file://$PROJECT_DIR$/src/null1.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
@@ -957,10 +996,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/inheritance.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="29" column="21" lean-forward="false" selection-start-line="29" selection-start-column="21" selection-end-line="29" selection-end-column="21" />
+        <state relative-caret-position="102">
+          <caret line="24" column="7" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="33" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/overidding.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="25" column="1" lean-forward="false" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
           <folding>
-            <element signature="n#!!doc;n#pesawat#0" expanded="false" />
+            <element signature="n#!!doc;n#Pesawat#0" expanded="false" />
           </folding>
         </state>
       </provider>
